@@ -17,7 +17,7 @@
 
 *Your support is the driving force of my creation.*
 
-winnerzr
+winne
 
 ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%AC%91%E8%95%8A%E7%A7%91%E6%8A%80-brightgreen)
 
